@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pytest
+pytest-mock
+httpx
+flake8
+black
+requests
+pydantic[email]
