@@ -2,9 +2,9 @@ name: CI - FastAPI ATV2
 
 on:
   push:
-    branches: [ main, feat/fastapi-pytest-fixture-mock ]
+    branches: [ main, fastapi-pytest-fixture-mock ]
   pull_request:
-    branches: [ main, feat/fastapi-pytest-fixture-mock ]
+    branches: [ main, fastapi-pytest-fixture-mock ]
 
 jobs:
   build:
